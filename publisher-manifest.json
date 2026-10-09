@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "64cd956b1c1d36c71ae45060",
+  "owner": "wangbadan9",
+  "repo": "page-24bfe3c5eb2e707eaf0e16c8",
+  "title": "机场测评",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "24bfe3c5eb2e707eaf0e16c8",
+      "a": "机场测评",
+      "b": "",
+      "entity": "机场测评",
+      "brand": "机场测评",
+      "separator": "",
+      "path": "index.html",
+      "hash": "01b58cd7f9710db90e40fc7b9a2749c67fe441c7c0e9e59045e0c1b7dab152fd",
+      "content": {
+        "keyword1": "机场测评",
+        "keyword2": "",
+        "primary_entity": "机场测评",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场测评提供优质VPN加速服务，支持高速流量加速、机场订阅及客户端下载。多种订阅计划满足不同需求，官网安全下载。",
+          "AI_DESCRIPTION": "机场测评提供优质VPN加速服务，支持高速流量加速、机场订阅及客户端下载。多种订阅计划满足不同需求，官网安全下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --beige: #F5F3EB;\n            --green: #2E7D32;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background-color: var(--beige);\n            color: #333;\n            line-height: 1.6;\n            margin: 0;\n            padding: 0;\n        }\n        main {\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        header {\n            text-align: center;\n            padding: 20px 0;\n        }\n        h1 {\n            color: var(--green);\n            font-size: 2.5rem;\n            margin: 0 0 10px;\n        }\n        h2 {\n            color: var(--green);\n            font-size: 1.8rem;\n            margin-top: 40px;\n            border-bottom: 2px solid var(--green);\n            padding-bottom: 10px;\n        }\n        .hero {\n            text-align: center;\n            padding: 60px 20px;\n            background-color: #F0EDE5;\n            border-radius: 8px;\n            margin-bottom: 30px;\n        }\n        .hero h2 {\n            font-size: 1.5rem;\n            color: #fff;\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 20px;\n            margin-bottom: 40px;\n        }\n        .plan {\n            background: white;\n            border: 2px solid #ddd;\n            border-radius: 8px;\n            padding: 20px;\n            text-align: center;\n            transition: transform 0.3s;\n        }\n        .plan:hover {\n            transform: translateY(-5px);\n        }\n        .flagship {\n            border-color: var(--green);\n            position: relative;\n        }\n        .badge {\n            position: absolute;\n            top: -10px;\n            right: 20px;\n            background: var(--green);\n            color: white;\n            padding: 5px 15px;\n            border-radius: 20px;\n            font-size: 0.9rem;\n        }\n        .price {\n            font-size: 1.8rem;\n            color: var(--green);\n            margin: 10px 0;\n        }\n        ul {\n            text-align: left;\n            padding-left: 20px;\n        }\n        li {\n            margin: 8px 0;\n        }\n        .steps {\n            display: flex;\n            flex-direction: column;\n            gap: 20px;\n            margin-bottom: 40px;\n        }\n        .step {\n            background: white;\n            padding: 20px;\n            border-radius: 8px;\n            border-left: 5px solid var(--green);\n        }\n        .step h3 {\n            margin: 0 0 10px;\n            color: var(--green);\n        }\n        details {\n            background: white;\n            margin-bottom: 10px;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 15px;\n            font-weight: bold;\n            cursor: pointer;\n            background: #F0EDE5;\n        }\n        summary:hover {\n            background: #E8E4D8;\n        }\n        button {\n            background: var(--green);\n            color: white;\n            border: none;\n            padding: 12px 24px;\n            border-radius: 4px;\n            cursor: pointer;\n            font-size: 1rem;\n        }\n        button:hover {\n            background: #1B4D1B;\n        }\n        @media (max-width: 768px) {\n            h1 {\n                font-size: 2rem;\n            }\n            .plans {\n                grid-template-columns: 1fr;\n            }\n        }\n    </style>\n\n\n<main>\n    <header>\n        <h1>机场测评</h1>\n    </header>\n    <section class=\"hero\">\n        <h2>高速VPN机场 流量加速 订阅与客户端下载</h2>\n        <p>稳定快速，解锁全球网络限制</p>\n    </section>\n    <section>\n        <h2>品牌简介</h2>\n        <p>机场测评致力于为全球用户提供专业稳定的VPN加速服务。我们精心筛选节点，提供多种订阅方案，助力您畅享高速、隐私保护的网络体验。无论个人或团队，都能找到最适合的方案。</p>\n    </section>\n    <section>\n        <h2>使用场景</h2>\n        <ul>\n            <li>远程办公与出差：稳定连接，不中断工作</li>\n            <li>在线教育与视频会议：高清流畅播放课程</li>\n            <li>跨境电商与支付：解锁海外网站与服务</li>\n            <li>游戏竞技与社交：IPLC专线降低延迟</li>\n            <li>隐私保护：加密流量，安全上网</li>\n        </ul>\n    </section>\n    <section>\n        <h2>配置流程</h2>\n        <div class=\"steps\">\n            <div class=\"step\">\n                <h3>1. 选择订阅计划</h3>\n                <p>根据流量需求和设备数量选择基础版、旗舰版或团队版。</p>\n            </div>\n            <div class=\"step\">\n                <h3>2. 完成支付</h3>\n                <p>支持微信、支付宝、信用卡等支付方式，安全便捷。</p>\n            </div>\n            <div class=\"step\">\n                <h3>3. 下载客户端</h3>\n                <p>访问官网下载官方客户端，确保使用最新版本。</p>\n            </div>\n            <div class=\"step\">\n                <h3>4. 安装配置</h3>\n                <p>安装后输入您的订阅账号信息，完成绑定。</p>\n            </div>\n            <div class=\"step\">\n                <h3>5. 连接节点</h3>\n                <p>选择附近高速节点，一键连接享受加速。</p>\n            </div>\n        </div>\n    </section>\n    <section>\n        <h2>订阅计划</h2>\n        <div class=\"plans\">\n            <div class=\"plan\">\n                <h3>基础版</h3>\n                <p class=\"price\">¥15/月 <span>或 ¥150/年</span></p>\n                <ul>\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n                \n            </div>\n            <div class=\"plan flagship\">\n                <span class=\"badge\">推荐</span>\n                <h3>旗舰版</h3>\n                <p class=\"price\">¥35/月 <span>或 ¥350/年</span></p>\n                <ul>\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n                \n            </div>\n            <div class=\"plan\">\n                <h3>团队版</h3>\n                <p class=\"price\">¥85/月 <span>或 ¥850/年</span></p>\n                <ul>\n                    <li>每月 1000GB 极速流量</li>\n                    <li>支持 20 台设备同时在线</li>\n                    <li>VIP 专属高带宽节点</li>\n                    <li>支持企业定制路由</li>\n                    <li>专属客户经理服务</li>\n                </ul>\n                \n            </div>\n        </div>\n    </section>\n    <section class=\"faq\">\n        <h2>常见问题</h2>\n        <details>\n            <summary>如何注册和订阅机场测评？</summary>\n            <p>在官网选择订阅计划，完成在线支付后，即可收到订阅信息。支付成功后账号自动激活，30分钟内生效。</p>\n        </details>\n        <details>\n            <summary>客户端如何下载？</summary>\n            <p>点击页面底部或导航栏的“客户端下载”链接，下载官方客户端。下载后无需额外注册。</p>\n        </details>\n        <details>\n            <summary>支持哪些设备和系统？</summary>\n            <p>客户端支持 Windows、macOS、iOS、Android 等主流操作系统。同时在线设备数量根据计划而定：基础版 3 台，旗舰版 5 台，团队版 20 台。</p>\n        </details>\n        <details>\n            <summary>如何解锁流媒体平台？</summary>\n            <p>旗舰版及以上计划支持原生解锁 Netflix、YouTube、Disney+ 等主流流媒体平台。基础版可解锁部分平台。</p>\n        </details>\n        <details>\n            <summary>节点分布和速度如何？</summary>\n            <p>机场测评提供全球多地高速节点，包括香港、日本、新加坡、美国等。速度可达 100Mbps 以上，具体以官网测试为准。</p>\n        </details>\n        <details>\n            <summary>售后服务如何？</summary>\n            <p>旗舰版及以上提供 7x24 工单支持，团队版有专属客户经理。问题反馈及时响应。</p>\n        </details>\n    </section>\n    <section>\n        <h2>立即开始使用</h2>\n        <p>访问官网 <a href=\"#\">官网</a> 下载客户端，享受高速网络加速。</p>\n    </section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "d103be90995988fb6cffe27761d559f2502f225d6213d27e9f1ac5fb986e8379",
+          "seo": {
+            "title": "机场测评 - 高速VPN机场 流量加速 订阅与客户端下载",
+            "keywords": "机场测评,VPN,机场,加速器,客户端下载,VPN订阅,高速VPN,流媒体解锁",
+            "description": "机场测评提供优质VPN加速服务，支持高速流量加速、机场订阅及客户端下载。多种订阅计划满足不同需求，官网安全下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jvnkvds.cn",
+    "host": "p-139a0158e8.jvnkvds.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b2f621fb19817c412921df5ef7b6e028be4eb677b588a42c330d0c52b7221936",
+    "sitemap.xml": "ff4ead9e862e81cfc589b077efc59fa91f92cdbf2d355eef89caefcb3050913a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "54070ce37df3c7e5d1aa5c9615fb44ebaa9b1a04219fe8e37d8af0ef4cc32151",
+    "robots.txt": "049e23f7458fd8ff0bd7995375c1a6f3539b833b91ff40b3e9d151550c0a3056",
+    "949f94476f238e7941027dc95b925af9.txt": "27a04f40df6f5bd1c9fc12d872c37ad8113cec183af4d68322fb1c9e70e04afe"
+  },
+  "revision": "bff12682781105ce55567665294a0f5f7c6a9f9ab1e29704219ee0dc68fa2d2e"
+}
